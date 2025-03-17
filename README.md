@@ -1,6 +1,7 @@
 Description
 
 This is a simple Inventory Management System implemented in C++ that allows users to add items to an inventory and generate a bill for purchased items. The system interacts with a file (Bill.txt) to store and retrieve item details.
+
 Features
 
     Add Items: Users can add new items to the inventory with item name, rate, and quantity.
